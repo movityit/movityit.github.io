@@ -1,17 +1,17 @@
-title: Prateek Kumar - GitHub
-email: prateek@prateekkumar.in
+title: movity - GitHub
+email: mandi@movity.it
 description: >- # this means to ignore newlines until "baseurl:"
-  This website contains list of all the open source repositories on github by Prateek Kumar.
+  This website contains list of all the open source repositories on github by movity.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://prateekkumar.me" # the base hostname & protocol for your site, e.g. http://example.com
-about_url: https://prateekkumar.in
-twitter_username: prateekkumarweb
-github_username: prateekkumarweb
-author: Prateek Kumar
-lang: en-IN
-google_analytics: UA-89128710-4
+url: "https://movityit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+about_url: https://movity.it
+twitter_username: movityit
+github_username: movityit
+author: movity
+lang: it-IT
+google_analytics: 
 
-timezone: Asia/Kolkata
+timezone: Europe/Rome
 
 # Build settings
 markdown: kramdown
