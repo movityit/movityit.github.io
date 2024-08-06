@@ -15,7 +15,7 @@ timezone: Europe/Rome
 # Build settings
 markdown: kramdown
 plugins:
-#  - jekyll-feed
+  - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
